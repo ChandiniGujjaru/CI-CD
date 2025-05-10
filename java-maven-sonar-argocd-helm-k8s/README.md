@@ -7,7 +7,7 @@ This project demonstrates a complete CI/CD pipeline for a Spring Boot applicatio
 
 ## 📊 Project Overview
 
-![CI/CD Architecture](./screenshots/CICD.png)
+![CI/CD Architecture](./Screenshots/CICD.png)
 
 ---
 
@@ -19,13 +19,13 @@ This project demonstrates a complete CI/CD pipeline for a Spring Boot applicatio
 - ✅ Containerized the application into a Docker image and pushed it to Docker Hub.
 
 ### 📸 Jenkins Pipeline
-![Jenkins Pipeline](./screenshots/Jenkins.png)
+![Jenkins Pipeline](./Screenshots/Jenkins.png)
 
 ### 📸 SonarQube Report
-![SonarQube Analysis](./screenshots/SonarQube.png)
+![SonarQube Analysis](./Screenshots/SonarQube.png)
 
 ### 📸 Docker Image
-![Docker Image](./screenshots/DockerHUb.png)
+![Docker Image](./Screenshots/DockerHUb.png)
 
 ---
 
@@ -36,4 +36,4 @@ This project demonstrates a complete CI/CD pipeline for a Spring Boot applicatio
 - 🟢 Achieved high availability with Kubernetes by maintaining two replicas of the application.
 
 ### 📸 ArgoCD Deployment
-![ArgoCD UI](./screenshots/Argo-1.png)
+![ArgoCD UI](./Screenshots/Argo-1.png)
