@@ -18,9 +18,6 @@ This project demonstrates a complete CI/CD pipeline for a Spring Boot applicatio
 - ✅ Ensured code quality with SonarQube for static code analysis.
 - ✅ Containerized the application into a Docker image and pushed it to Docker Hub.
 
-📸 **Spring Boot Application**  
-![Spring Boot Application Screenshot](./java-maven-sonar-argocd-helm-k8s/Screenshots/SpringbootApp.png)
-
 ### 📸 Jenkins Pipeline
 ![Jenkins Pipeline](./java-maven-sonar-argocd-helm-k8s/Screenshots/Jenkins.png)
 
