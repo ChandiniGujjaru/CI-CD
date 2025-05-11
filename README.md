@@ -7,7 +7,7 @@ This project demonstrates a complete CI/CD pipeline for a Spring Boot applicatio
 
 ## 📊 Project Overview
 
-![CI/CD Architecture](./Screenshots/CICD.png)
+![CI/CD Architecture](./java-maven-sonar-argocd-helm-k8s/Screenshots/CICD.png)
 
 ---
 
@@ -19,16 +19,16 @@ This project demonstrates a complete CI/CD pipeline for a Spring Boot applicatio
 - ✅ Containerized the application into a Docker image and pushed it to Docker Hub.
 
 📸 **Spring Boot Application**  
-![Spring Boot Application Screenshot](./Screenshots/SpringbootApp.png)
+![Spring Boot Application Screenshot](./java-maven-sonar-argocd-helm-k8s/Screenshots/SpringbootApp.png)
 
 ### 📸 Jenkins Pipeline
-![Jenkins Pipeline](./Screenshots/Jenkins.png)
+![Jenkins Pipeline](./java-maven-sonar-argocd-helm-k8s/Screenshots/Jenkins.png)
 
 ### 📸 SonarQube Report
-![SonarQube Analysis](./Screenshots/SonarQube.png)
+![SonarQube Analysis](./java-maven-sonar-argocd-helm-k8s/Screenshots/SonarQube.png)
 
 ### 📸 Docker Image
-![Docker Image](./Screenshots/DockerHUb.png)
+![Docker Image](./java-maven-sonar-argocd-helm-k8s/Screenshots/DockerHUb.png)
 
 ---
 
@@ -39,4 +39,4 @@ This project demonstrates a complete CI/CD pipeline for a Spring Boot applicatio
 - 🟢 Achieved high availability with Kubernetes by maintaining two replicas of the application.
 
 ### 📸 ArgoCD Deployment
-![ArgoCD UI](./Screenshots/Argo-1.png)
+![ArgoCD UI](./java-maven-sonar-argocd-helm-k8s/Screenshots/Argo-1.png)
